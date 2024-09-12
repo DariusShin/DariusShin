@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DariusShin
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m @DariusShin from Malaysia
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
