@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](<https://facebook.com/Shin Lee>) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shinlee_0614) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](<https://www.linkedin.com/in/darius-lee-shin-744ba028a/>) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](<https://www.linkedin.com/in/dariusleeshin-cs>) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](<https://medium.com/@dariuslee0614>) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](<https://pin.it/5sgS2Wce1>) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](<https://codepen.io/DariusShin>) 
